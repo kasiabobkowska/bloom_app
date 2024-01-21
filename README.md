@@ -41,7 +41,10 @@ Bloom is a personalized reading companion that brings you a curated collection o
 
 ## Screenshots
 
-![Profile details](https://github.com/kasiul/bloom_app/blob/bloom_app_backend/uploads/Zrzut%20ekranu%202024-01-21%20214419.png "Optional Title")
+![Main Page](https://github.com/kasiul/bloom_app/blob/bloom_app_backend/uploads/Zrzut%20ekranu%202024-01-21%20215006.png "Main page")
+![Blog posts](https://github.com/kasiul/bloom_app/blob/bloom_app_backend/uploads/Zrzut%20ekranu%202024-01-21%20214652.png "Blog posts")
+![Profile details](https://github.com/kasiul/bloom_app/blob/bloom_app_backend/uploads/Zrzut%20ekranu%202024-01-21%20214419.png "Edit profile page")
+![Comments](https://github.com/kasiul/bloom_app/blob/bloom_app_backend/uploads/Zrzut%20ekranu%202024-01-21%20215113.png "Comments")
 
 
 ## Setup
