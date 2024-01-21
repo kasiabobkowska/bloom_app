@@ -41,10 +41,7 @@ Bloom is a personalized reading companion that brings you a curated collection o
 
 ## Screenshots
 
-![Screenshot 1](./uploads/Zrzut ekranu 2024-01-21 214419.png)
-![Screenshot 1](./uploads/Zrzut ekranu 2024-01-21 214652.png)
-![Screenshot 1](./uploads/Zrzut ekranu 2024-01-21 215006.png)
-![Screenshot 1](./uploads/Zrzut ekranu 2024-01-21 215113.png)
+![Profile details](https://github.com/kasiul/bloom_app/blob/bloom_app_backend/uploads/Zrzut%20ekranu%202024-01-21%20214419.png "Optional Title")
 
 
 ## Setup
